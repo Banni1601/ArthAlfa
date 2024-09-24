@@ -28,3 +28,19 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/react-text-analysis.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd react-text-analysis
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Open your browser and navigate to http://localhost:3000.
